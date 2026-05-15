@@ -1,0 +1,16 @@
+# OS 依存
+.DS_Store
+Thumbs.db
+
+# エディタ
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ログ
+*.log
+
+# 一時ファイル
+*~
+*.bak
