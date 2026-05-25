@@ -29,3 +29,6 @@ $ git push
 ## このリポジトリの目的
 
 GitHub に push する 練習用です。中身は シンプルですが、HTML / CSS / JavaScript の おさらいに なります。
+
+## 4.2 編集 ── README に 1 行 追加
+編集日：2026-05-25(taketo02)
